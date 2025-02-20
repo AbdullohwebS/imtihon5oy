@@ -8,9 +8,78 @@
 body.light-mode {
   background-color: #000000;
 }
+body.light-mode h3{
+  color: #fff;
+}
+body.light-mode p{
+  color: #fff;
+}
+body.light-mode button{
+  color: #fff;
+}
+body.light-mode h1{
+  color: #fff;
+}
+body.light-mode a{
+  color: #fff;
+}
+body.light-mode span{
+  color: #fff;
+}
+body.light-mode .wrapn1 h3{
+  color: #fff;
+}
+body.light-mode .wrapn2 h3{
+  color: #ffffff;
+}
+body.light-mode .wrapn1 p{
+  color: #ffffff;
+}
+body.light-mode .wrapn2 p{
+  color: #ffffff;
+}
+body.light-mode .wrapn1 button{
+  color: #000000;
+}
+body.light-mode .wrapn2 button{
+  color: #000000;
+}
+body.light-mode .wrapn1 a{
+  color: #000000;
+}
+body.light-mode .wrapn1 h3{
+  color: #ffffff;
+}
+body.light-mode .titlewrap{
+  background-color: #000000;
+}
+body.light-mode .wrapn1{
+  color: #fff;
+  /* background-color: #000000; */
+}
 
+body.light-mode .wrapn1 h3{
+  color: #ffffff;
+}
+body.light-mode .mainbody h3{
+  color: #000000;
+}
+body.light-mode .mainbody p{
+  color: #000000;
+}
+body.light-mode .container h3{
+  color: #ffffff;
+}
+body.light-mode .container p{
+  color: #ffffff;
+}
+body.light-mode .lowerrpart h2{
+  color: #ffffff;
+}
+body.light-mode .btn2 button{
+  color: #ffffff;
+}
 body {
-  /* background-color: black; */
   font-family: "Montserrat", sans-serif;
 }
 .container {
@@ -85,6 +154,7 @@ hr {
   text-align: center;
 }
 .text p {
+    color: #fff;
   margin-top: 10px;
   font-weight: 400;
   font-size: 16px;
