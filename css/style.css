@@ -8,12 +8,6 @@
 body.light-mode {
   background-color: #000000;
 }
-body.light-mode .text-section p{
-  color: #ffffff;
-}
-body.light-mode .features p{
-  color: #000;
-}
 body.light-mode h3{
   color: #fff;
 }
@@ -84,6 +78,15 @@ body.light-mode .lowerrpart h2{
 }
 body.light-mode .btn2 button{
   color: #ffffff;
+}
+body.light-mode .text-section p{
+  color: #ffffff;
+}
+body.light-mode .tesxte p{
+  color: #ffffff;
+}
+body.light-mode .features p{
+  color: #000000;
 }
 body {
   font-family: "Montserrat", sans-serif;
