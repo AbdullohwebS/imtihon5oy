@@ -1,7 +1,8 @@
 const darkModeToggle = document.querySelector(".icon img");
 const body = document.body;
 
-const darkImg = "images/iconics-image/Dark mode.png";
+const darkImg = "images/iconics-image/Darkmode.png";
+const lightImg = "images/logotip/Whitemode.png";
 
 if (localStorage.getItem("theme") === "light") {
   body.classList.add("light-mode");
